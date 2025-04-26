@@ -51,3 +51,5 @@ Content editors often generate multiple rewrites of the same sentence or concept
 🧠 Output (simplified):
 
 "variabilityScore": 32
+
+🧪 Beta Notice: This tool is currently in beta. The final version will include expanded cloud integration using the Google Cloud SDK and APIs to automate variability scoring within Google Docs.
